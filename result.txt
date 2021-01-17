@@ -1,0 +1,971 @@
+{{Tabs
+|backcolor    = #B00000
+|altbackcolor = #FCCCCC
+|textcolor    = white
+|alttextcolor = black
+|font-size    = 100%
+|maxwidth     = 15
+|height       = 2.5
+|base         = Beast Tamer
+|tab1         = Job
+|tab2         = Skills
+|tab3         = NPC
+}}
+
+==Description==
+Chase uses skills in conjunction with four animals - a [[Beast Tamer/Skills#Bear Skills|bear]], [[Beast Tamer/Skills#Snow Leopard Skills|leopard]], [[Beast Tamer/Skills#Hawk Skills|hawk]] and [[Beast Tamer/Skills#Cat Skills|cat]], all of which are cycled through [[Critter Select]]. The bear uses mainly strong melee skills, the leopard uses fast attacks over wide areas, the hawk uses aerial skills and provides many enhancements to speed, and the cat uses a variety of buffs.
+
+Similar to [[Zero]], Chase lacks any job advancement and only unlocks skills by not only leveling up, but also distributing points throughout the four animal skill trees. But unlike Zero, all the skill trees do not gain their own separate SP; only 3 SP is given per level up and must be distributed across all the trees.
+
+==[[File:Skill 1st Job.png|Shared Skills]] Chase Skills==
+{{Skillbox<!--110001506-->
+|image=[[File:Skill Guardian Leap.png]]
+|name=[[Guardian Leap]]
+|type=Active
+|masterlv=1
+|desc=Use the agility of your animal pals to double jump.
+|effect=MP Cost: 10, jumps further
+}}
+{{Skillbox<!--110001510-->
+|image=[[File:Skill Critter Select.png]]
+|name=[[Critter Select]]
+|type=Active
+|masterlv=1
+|desc=Grants access to your different animal abilities.
+|effect=Use your direction keys to select an animal mode.
+}}
+{{Skillbox<!--110001514-->
+|image=[[File:Skill Homeward Bound.png]]
+|name=[[Homeward Bound]]
+|type=Active
+|masterlv=1
+|desc=Returns to Arboren.
+|effect=Returns to the Arboren Ferry when used.<br />Cooldown: 600 sec
+}}
+{{Skillbox<!--110000515-->
+|image=[[File:Skill Beast Scepter Mastery.png]]
+|name=[[Beast Scepter Mastery]]
+|type=Passive
+|reqlv=40
+|masterlv=10
+|desc=Hours of training have made you extra cool with that Scepter. Improves Mastery and Accuracy with every 10 levels you gain, starting at Lv. 30.
+|effect=Scepter Mastery: +70%, Magic ATT: +50
+}}
+{{Skillbox<!--110000513-->
+|image=[[File:Skill Growth Spurt.png]]
+|name=[[Growth Spurt]]
+|type=Passive
+|reqlv=60
+|masterlv=30
+|desc=The Beast Tamer's abilities increase with each level.<br />Can be obtained at level 60.
+|effect=<font color="darkorange">INT:</font> +60 , <font color="darkorange">LUK:</font> +30, <font color="darkorange">Critical Rate:</font> +16%, <font color="darkorange">Max HP:</font> +40%, <font color="darkorange">Max MP</font> +16%, <font color="darkorange">Boss ATT</font> +11%, <font color="darkorange">Magic ATT:</font> +5%, <font color="darkorange">Weapon DEF:</font> +2000, <font color="darkorange">Magic DEF:</font> +2000, <font color="darkorange">All Abnormal Status and Elemental Resistance:</font> +40%
+}}
+{{Skillbox<!--110001511-->
+|image=[[File:Skill Maple Guardian.png]]
+|name=[[Maple Guardian]]
+|type=Active
+|masterlv=30
+|desc=Temporarily increases the stats of all team members.
+|effect=MP Cost: 70, All Stats: +15%, Duration: 900 sec
+}}
+{{Skillbox<!--110001512-->
+|image=[[File:Skill Beastly Resolve.png]]
+|name=[[Beastly Resolve]]
+|type=Active
+|reqlv=150
+|masterlv=5
+|desc=By focusing your mind, you can ignore some abnormal status effects. However, this will not work on all abnormal status effects.
+|effect=MP Cost: 30, Cooldown: 360 sec
+}}
+{{Skillbox<!--110000800-->
+|image=[[File:Skill Focus Spirit.png]]
+|name=[[Focus Spirit]]
+|type=Passive
+|masterlv=3
+|desc=Embedded with mystical animal spirit power.
+|effect=Boss Damage: +10%.<br />Critical Rate: +10%.<br />Max HP +5%.<br />Max MP: +5%.
+}}
+
+==[[File:Fort Icon.png|Bear Skills|30px]] Bear Skills==
+{{Skillbox<!--112000000-->
+|image=[[File:Skill Paw Swipe.png]]
+|name=[[Paw Swipe]]
+|type=Active
+|reqlv=10
+|masterlv=20
+|desc=Attacks several enemies 3 times.<br />[Command]: Tap <font color="darkorange">Attack Key</font> multiple times
+|effect=First 3 Hits: Damage: 420%, Max Enemies Hit: 8, Max Hits: 1
+}}
+{{Skillbox<!--112001006-->
+|image=[[File:Skill Majestic Trumpet.png]]
+|name=[[Majestic Trumpet]]
+|type=Active
+|reqlv=14
+|masterlv=20
+|desc=The bear uses the power of nature to ignite a fire. Enemies caught in the blast take damage. Unaffected by attack reflection.
+|effect=MP Cost: 35, Damage: 210%, Max Enemies Hit: 10, Duration: 15 sec.
+}}
+{{Skillbox<!--112000011-->
+|image=[[File:Skill Well Fed.png]]
+|name=[[Well Fed]]
+|type=Passive
+|reqlv=19
+|masterlv=10
+|desc=Increases Max HP and INT while in Bear Mode.
+|effect=Passive Effect: Max HP: +50%, INT: +50
+}}
+{{Skillbox<!--112000010-->
+|image=[[File:Skill Dumb Luck.png]]
+|name=[[Dumb Luck]]
+|type=Passive
+|reqlv=25
+|masterlv=10
+|desc=When in Bear mode, increases Knockback Resistance and Defense by a certain amount, and damage taken when hit by enemies is reduced.
+|effect=Knockback Resistance: +95%, Defense: +200, Damage taken when hit by enemies: -30%.
+}}
+{{Skillbox<!--112001004-->
+|image=[[File:Skill Deep Breath.png]]
+|name=[[Deep Breath]]
+|type=Active
+|reqlv=31
+|masterlv=10
+|desc=The bear sucks in air to pull enemies close.
+|effect=MP Cost: 30, Damage: 450%, Max Enemies Hit: 8
+}}
+{{Skillbox<!--112000015-->
+|image=[[File:Skill Fort Follow-Up.png]]
+|name=[[Fort Follow-Up]]
+|type=Passive
+|reqlv=39
+|masterlv=20
+|desc=Li'l Fort appears after every 4th attack to deal an additional attack.<br />[Command]: Attack 4 times with a <font color="darkorange">Bear Mode Active Skill</font>
+|effect=Additional Damage: 825%, Number of Attacks: 1
+}}
+{{Skillbox<!--112000012-->
+|image=[[File:Skill Defense Ignorance.png]]
+|name=[[Defense Ignorance]]
+|type=Passive
+|reqlv=47
+|masterlv=15
+|desc=Ignores a portion of enemy defense and increases Attack speed while in Bear Mode.
+|effect=Passive Effect: Enemy DEF Ignored: 30%, Attack Speed: +2
+}}
+{{Skillbox<!--112000003-->
+|image=[[File:Skill Furious Strikes.png]]
+|name=[[Furious Strikes]]
+|type=Passive
+|reqlv=54
+|masterlv=25
+|desc=Using <font color="darkorange">Paw Swipe</font> 4 times in a row will activate a special skill, allowing multiple follow-up hits.<br />[Command]: Continues to attack after the 3rd hit of <font color="darkorange">Paw Swipe</font>.
+|effect=MP Cost: 10, Damage: 450%, Number of Attacks: 4, Max Enemies Hit: 8<br />Extra Paw Swipe Damage: +100%. While channeling this skill, damage taken from enemy attacks (including attacks that deal a fixed percent of damage) are reduced by 20%.
+}}
+{{Skillbox<!--112000014-->
+|image=[[File:Skill Bear Strength.png]]
+|name=[[Bear Strength]]
+|type=Passive
+|reqlv=63
+|masterlv=15
+|desc=Permanently increases Critical Rate, Critical Damage and Magic ATT while in Bear Mode.
+|effect=Passive Effect: Critical Rate: +60%, Critical Damage: +40%, Magic ATT: +15
+}}
+{{Skillbox<!--112001005-->
+|image=[[File:Skill Really Deep Breath.png]]
+|name=[[Really Deep Breath]]
+|type=Active
+|reqlv=70
+|masterlv=20
+|desc=The bear sucks in air to pull enemies close from the left and right.
+|effect=MP Cost: 70, Damage: 670%, Max Enemies Hit: 10
+}}
+{{Skillbox<!--112001007-->
+|image=[[File:Skill Li'l Fort.png]]
+|name=[[Li'l Fort]]
+|type=Active
+|reqlv=76
+|masterlv=15
+|desc=Summons a toy bear to just go nuts on the enemy.
+|effect=MP Cost: 46<br />- Bear Damage: 1900%<br />- Bear Duration: 60 sec.
+}}
+{{Skillbox<!--112000013-->
+|image=[[File:Skill Fort the Brave.png]]
+|name=[[Fort the Brave]]
+|type=Passive
+|reqlv=82
+|masterlv=20
+|desc=Permanently increases Magic ATT while in Bear Mode.
+|effect=Passive Effect: Magic ATT: +10%
+}}
+{{Skillbox<!--112001009-->
+|image=[[File:Skill Bear Assault.png]]
+|name=[[Bear Assault]]
+|type=Active
+|reqlv=90
+|masterlv=20
+|desc=Focuses your attacks. You'll hit fewer enemies but deal more damage. Also increases Max HP and MP and ignores some monster defense.
+|effect=<font color="darkorange">Active Effect</font> - MP Cost: 62, Damage: +35%, Critical Damage: +10%, Final Damage: +20%, Max Enemies Hit by Any Skill: 1, Duration: 60 sec<br /><font color="darkorange">Passive Effects</font> - Max HP: +20%, Max MP: +20%, DEF: +100%, Ignore Enemy DEF: +20%
+}}
+{{Skillbox<!--112001008-->
+|image=[[File:Skill Fishy Slap.png]]
+|name=[[Fishy Slap]]
+|type=Active
+|reqlv=98
+|masterlv=25
+|desc=Hold down the skill key to smack enemies with a fish.
+|effect=MP Cost: 20, Max Enemies Hit: 8, Damage: 660%, Skill Duration: 13 sec, Cooldown: 10 sec
+}}
+{{Skillbox<!--112000016-->
+|image=[[File:Skill Bear Reborn.png]]
+|name=[[Bear Reborn]]
+|type=Active
+|reqlv=105
+|masterlv=10
+|desc=Allows you to resurrect while in Bear Mode. You gain invincibility as your HP recovers.<br />Resurrection is available when the skill icon is active in the upper right.
+|effect=Resurrection Cooldown: 1800 sec, Resurrection Invincibility: 10 sec
+}}
+{{Skillbox<!--112000020-->
+|image=[[File:Skill Billowing Trumpet.png]]
+|name=[[Billowing Trumpet]]
+|type=Passive
+|reqlv=109
+|masterlv=15
+|desc=Enhances the spark in Majestic Trumpet to form a hellish inferno.
+|effect=Magic ATT: +30, <font color="darkorange">Majestic Trumpet</font> Damage over Time: +140%.
+}}
+{{Skillbox<!--112001018-->
+|image=[[File:Skill Table Flip.png]]
+|name=[[Table Flip]]
+|type=Active
+|reqlv=114
+|masterlv=10
+|desc=The bear goes into a rage and flips a table at the enemy.
+|effect=MP Cost: 300, Damage: 700%, Max Enemies Hit: 15, Number of Attacks: 8<br />Cooldown: 15 sec
+}}
+
+==[[File:Lai Icon.png|Snow Leopard Skills|30px]] Snow Leopard Skills==
+{{Skillbox<!--112100000-->
+|image=[[File:Skill Leopard's Paw.png]]
+|name=[[Leopard's Paw]]
+|type=Active
+|reqlv=10
+|masterlv=20
+|desc=Get a dose of Lai's muscles to knock back enemies in your path.<br />[Command]: After 2 hits, combo with <font color="darkorange">Leopard's Pounce</font><br />[Extra Command]: Combo with <font color="darkorange">Leopard's Roar</font>
+|effect=Damage: 200% (first two hits), Max Enemies Hit: 8, Number of Attacks: 2.
+}}
+{{Skillbox<!--112101007-->
+|image=[[File:Skill Thunder Dash.png]]
+|name=[[Thunder Dash]]
+|type=Active
+|reqlv=15
+|masterlv=10
+|desc=Your snow leopard buddy dashes at the enemy, dealing damage. If the Leopard's Paw, Leopard's Pounce, Leopard's Roar, Macho Slam, or Three-Point Pounce skill are in use, they will be canceled by the activation of this skill.
+|effect=MP Cost: 10, Damage: 230%, Number of Attacks: 2, Max Enemies Hit: 8, Cooldown: 3 sec
+}}
+{{Skillbox<!--112100011-->
+|image=[[File:Skill Leopard Hide.png]]
+|name=[[Leopard Hide]]
+|type=Passive
+|reqlv=21
+|masterlv=15
+|desc=Grants a chance to recover HP whenever monsters are defeated. Maximum 10% per attack. <font color="darkorange">Triggers at most once per attack.</font>
+|effect=Trigger Chance: 40%, Restores 8% of the finishing blow's damage dealt as HP
+}}
+{{Skillbox<!--112100002-->
+|image=[[File:Skill Leopard's Pounce.png]]
+|name=[[Leopard's Pounce]]
+|type=Active
+|reqlv=27
+|masterlv=15
+|desc=Dash forward and rip into enemies.<br />[Skill Requirement]: <font color="darkorange">Leopard's Paw Lv. 1</font><br />[Command]: Triggers after 2 hits of <font color="darkorange">Leopard's Paw</font>
+|effect=MP Cost: 0, Damage: 255%, Number of Attacks: 4, Max Enemies Hit: 8
+}}
+{{Skillbox<!--112100013-->
+|image=[[File:Skill Rippling Feline Muscles.png]]
+|name=[[Rippling Feline Muscles]]
+|type=Passive
+|reqlv=35
+|masterlv=15
+|desc=Increases Magic ATT, Intelligence, Speed, and Jump when in Snow Leopard Mode.
+|effect=Magic ATT: +35, INT: +35, Speed: +35, Jump: +6
+}}
+{{Skillbox<!--112101004-->
+|image=[[File:Skill Macho Dance.png]]
+|name=[[Macho Dance]]
+|type=Active
+|reqlv=41
+|masterlv=20
+|desc=Shoot up into the air, damaging nearby enemies. Can be chained into <font color="darkorange">Macho Slam</font>.
+|effect=MP Cost: 20, Damage: 240%, Number of Attacks: 3, Max Enemies Hit: 8
+}}
+{{Skillbox<!--112101005-->
+|image=[[File:Skill Macho Slam.png]]
+|name=[[Macho Slam]]
+|type=Active
+|reqlv=49
+|masterlv=20
+|desc=Slam into enemies below you. Can be used during a jump or after <font color="darkorange">Macho Dance</font>.
+|effect=MP Cost: 20, Damage: 300%, Number of Attacks: 3, Max Enemies Hit: 8
+}}
+{{Skillbox<!--112101016-->
+|image=[[File:Skill Bro Attack.png]]
+|name=[[Bro Attack]]
+|type=Active
+|reqlv=57
+|masterlv=15
+|desc=Gain a chance to summon a baby snow leopard to deal extra damage when you attack. Bosses and some monsters are immune.
+|effect=MP Cost: 120, Summon Chance: 15%, Buff Duration: 150 sec.<br />- Baby Leopard Damage: 550%<br />- Baby Leopard Duration: 40 sec. <br />Cooldown: 0 Sec
+}}
+{{Skillbox<!--112100003-->
+|image=[[File:Skill Leopard's Roar.png]]
+|name=[[Leopard's Roar]]
+|type=Passive
+|reqlv=67
+|masterlv=20
+|desc=Roar to inflict additional damage after <font color="darkorange">Leopard's Pounce</font>. Also enhances the Damage and Number of Enemies Hit with <font color="darkorange">Leopard's Paw</font> and <font color="darkorange">Leopard's Pounce</font>.<br />[Command] Press the <font color="darkorange">[attack key]</font> after using <font color="darkorange">Leopard's Pounce</font>
+|effect=MP Cost: 0, Max Enemies Hit: 10, Damage: 500%, Number of Attacks: 4<br /><font color="darkorange">Leopard's Paw</font> and <font color="darkorange">Leopard's Pounce</font> Damage: +20%, Max Enemies Hit: +3
+}}
+{{Skillbox<!--112100008-->
+|image=[[File:Skill Thunder Trail.png]]
+|name=[[Thunder Trail]]
+|type=Passive
+|reqlv=73
+|masterlv=15
+|desc=Unleashes a ghostly Snow Leopard mirror image during <font color="darkorange">Thunder Dash</font>, damaging nearby enemies.
+|effect=Afterimage: Damage: 160%, Max Enemies Hit: 10, Duration: 4 sec., Number of Attacks: 3
+}}
+{{Skillbox<!--112100006-->
+|image=[[File:Skill Macho Incarnate.png]]
+|name=[[Macho Incarnate]]
+|type=Passive
+|reqlv=80
+|masterlv=20
+|desc=Lai shows his true from after <font color="darkorange">Macho Slam</font>, shocking and stunning all nearby enemies. Also increases the Max Enemies Hit with <font color="darkorange">Macho Dance and Macho Slam</font>.
+|effect=Damage: 850%, Max Enemies Hit: 8, Duration: 4 sec., Number of Attacks: 1, Chance to Stun: 100%. <br />Number of mobs attacked with <font color="darkorange">Macho Dance, Macho Slam</font>: +3, Damage: +20%
+}}
+{{Skillbox<!--112101009-->
+|image=[[File:Skill Three-Point Pounce.png]]
+|name=[[Three-Point Pounce]]
+|type=Active
+|reqlv=86
+|masterlv=20
+|desc=The snow leopard makes a three-point attack, slashing at nearby enemies with his claws.
+|effect=MP Cost: 130, Damage: 615%, Number of Attacks: 4, Max Enemies Hit: 10, Cooldown: 2 sec
+}}
+{{Skillbox<!--112100012-->
+|image=[[File:Skill Advanced Thunder Dash.png]]
+|name=[[Advanced Thunder Dash]]
+|type=Passive
+|reqlv=91
+|masterlv=20
+|desc=Travel further during <font color="darkorange">Thunder Dash</font> to deal more damage.
+|effect=MP Cost: 112, Damage: 400%, Number of Attacks: 4, Max Enemies Hit: 10, Cooldown: 2 sec
+}}
+{{Skillbox<!--112100010-->
+|image=[[File:Skill Deadly Fangs.png]]
+|name=[[Deadly Fangs]]
+|type=Passive
+|reqlv=95
+|masterlv=15
+|desc=Magic ATT and Final Damage are increased by the effects of Deadly Fangs.
+|effect=Magic ATT: +30, Final Damage: +20%
+}}
+{{Skillbox<!--112100014-->
+|image=[[File:Skill Lethal Lai.png]]
+|name=[[Lethal Lai]]
+|type=Passive
+|reqlv=101
+|masterlv=15
+|desc=Increases the attack count and damage of certain Snow Leopard Mode skills.<br /><font color="darkorange">Affected Skills: Leopard's Paw, Leopard's Pounce, Leopard's Roar, Macho Dance, Macho Slam, Thunder Dash</font>
+|effect=Damage of <font color="darkorange">Leopard's Paw, Leopard's Pounce, Leopard's Roar, Macho Dance, Macho Slam, Thunder Dash</font>: +40%, Max Enemies Hit: +4, Ignore DEF: +30%
+}}
+{{Skillbox<!--112100015-->
+|image=[[File:Skill Leopard Reflexes.png]]
+|name=[[Leopard Reflexes]]
+|type=Passive
+|reqlv=108
+|masterlv=10
+|desc=When transformed into Snow Leopard mode, Attack Speed and Magic ATT will be increased, and a portion of Defense is ignored.
+|effect=Attack Speed: +2 level(s), Magic ATT: +6%, Ignore Enemy Defense: 60%
+}}
+{{Skillbox<!--112101017-->
+|image=[[File:Skill Party Time.png]]
+|name=[[Party Time]]
+|type=Active
+|reqlv=116
+|masterlv=10
+|desc=The snow leopard charges wildly across the entire map, dealing damage.
+|effect=MP Cost: 300, Damage: 650%, Number of Attacks: 8, Max Enemies Hit: 15, Cooldown: 15 sec
+}}
+
+==[[File:Eka Icon.png|Hawk Skills|30px]] Hawk Skills==
+{{Skillbox<!--112110003-->
+|image=[[File:Skill Formation Attack.png]]
+|name=[[Formation Attack]]
+|type=Active
+|reqlv=30
+|masterlv=10
+|desc=Baby hawks attack in formation.<br />Can be directed <font color="darkorange">left or right</font>.<br />Can't be used while <font color="darkorange">airborne</font>.
+|effect=Damage: 110%, Max Enemies Hit: 3, Number of Attacks: 1. When enemies are hit, reduces Fly's cooldown by 0.5 sec.
+}}
+{{Skillbox<!--112111017-->
+|image=[[File:Skill Sky Walk.png]]
+|name=[[Sky Walk]]
+|type=Active
+|reqlv=30
+|masterlv=5
+|desc=Eka gives you a little lift, giving you an extra double jump.
+|effect=MP Cost: 13. Jump up to two more times in midair after your initial jump.
+}}
+{{Skillbox<!--112111002-->
+|image=[[File:Skill Vertical Draft.png]]
+|name=[[Vertical Draft]]
+|type=Active
+|reqlv=33
+|masterlv=10
+|desc=Tap Up Arrow Key while jumping to jump even higher.
+|effect=Jump: 1650
+}}
+{{Skillbox<!--112111010-->
+|image=[[File:Skill Eka Express.png]]
+|name=[[Eka Express]]
+|type=Active
+|reqlv=37
+|masterlv=10
+|desc=Creates a portal to the nearest town. All party members can use it to travel.
+|effect=MP Cost: 60, Portal Duration: 200 sec, Cooldown: 200 sec<br /><font color="darkorange">Passive Effects</font> - Critical Damage: +10%
+}}
+{{Skillbox<!--112111000-->
+|image=[[File:Skill Fly.png]]
+|name=[[Fly]]
+|type=Active
+|reqlv=43
+|masterlv=30
+|desc=Launch into the air with Eka to unlock additional attacks.<br />[Command]: Press and hold [up] + [jump] to fly. Press [down] +[jump] to land.
+|effect=Flight Duration: 30 sec, Cooldown: 60 sec.
+}}
+{{Skillbox<!--112111007-->
+|image=[[File:Skill Hawk Flock.png]]
+|name=[[Hawk Flock]]
+|type=Active
+|reqlv=48
+|masterlv=15
+|desc=Increases the speed of the entire party while in hawk mode.
+|effect=MP Cost: 25, Duration: 180 sec, Speed: +30, Jump: +15<br />Passive Effects - Max Movement Speed: +15
+}}
+{{Skillbox<!--112110014-->
+|image=[[File:Skill Max Mobility.png]]
+|name=[[Max Mobility]]
+|type=Passive
+|reqlv=52
+|masterlv=15
+|desc=In Hawk mode, Magic ATT and Attack Speed are increased by the effects of Max Mobility. In addition, it permanently ignores a portion of enemy defense rates.
+|effect=Magic ATT: +30, Attack Speed: +1 level(s), Ignore Enemy Defense: 30%
+}}
+{{Skillbox<!--112110005-->
+|image=[[File:Skill Defensive Formation.png]]
+|name=[[Defensive Formation]]
+|type=Passive
+|reqlv=62
+|masterlv=30
+|desc=Eka's friends come to your aid while you're flying, attacking enemies in range.<br />Can only trigger while <font color="darkorange">airborne</font>.<br /><font color="darkorange">Defensive Formation</font> can't penetrate boss armor.
+|effect=Damage (Eka's friends): 150%, Max Hits: 2
+}}
+{{Skillbox<!--112111001-->
+|image=[[File:Skill Eka Glider.png]]
+|name=[[Eka Glider]]
+|type=Active
+|reqlv=65
+|masterlv=1
+|desc=Press the skill key while in the air to switch to Glider status.
+|effect=Glide: Hold Skill Key
+}}
+{{Skillbox<!--112110012-->
+|image=[[File:Skill Feather Cloak.png]]
+|name=[[Feather Cloak]]
+|type=Passive
+|reqlv=72
+|masterlv=15
+|desc=In Hawk mode, basic Jump and Critical Rate are increased due to the effect of Feather Cloak.
+|effect=Jump: +4, Critical Rate: +15%
+}}
+{{Skillbox<!--112111011-->
+|image=[[File:Skill Regroup.png]]
+|name=[[Regroup]]
+|type=Active
+|reqlv=78
+|masterlv=10
+|desc=Summons any party members on the <font color="darkorange">same channel</font> who are above Lv. 9 to your location.
+|effect=Summons party members. MP Cost: 60, Cooldown: 600 sec<br /><font color="darkorange">Passive Effects</font> - Ignore Enemy Defense: 20%
+}}
+{{Skillbox<!--112111006-->
+|image=[[File:Skill Raptor Talons.png]]
+|name=[[Raptor Talons]]
+|type=Active
+|reqlv=83
+|masterlv=15
+|desc=Eka's talon becomes so sharp, your ATT increases.<br />Passive Effects: Adding bleeding damage to all attacks while in hawk mode.
+|effect=MP Cost: 50, Duration: 180 sec, Magic ATT: +60<br />Passive Effects: Bleed Chance: 100%, Bleed Damage: 340% per sec, Bleed Duration: 6 sec<br />Cooldown: 0 sec
+}}
+{{Skillbox<!--112111004-->
+|image=[[File:Skill Baby Bombers.png]]
+|name=[[Baby Bombers]]
+|type=Active
+|reqlv=88
+|masterlv=30
+|desc=Calls Eka's ground-bound allies to attack.<br />Can only be used while <font color="darkorange">airborne</font>.
+|effect=MP Cost: 80, Damage: 525%, Number of Attacks: 4, Max Enemies Hit: 8<br />Cooldown: 3 sec
+}}
+{{Skillbox<!--112111009-->
+|image=[[File:Skill Bird's-Eye View.png]]
+|name=[[Bird's-Eye View]]
+|type=Passive
+|reqlv=94
+|masterlv=15
+|desc=Eka enhances her eyesight to boost Critical Rate and Defense of nearby party members.
+|effect=MP Cost: 30, Duration: 450 sec, Critical Rate: +15%, Defense: +900
+}}
+{{Skillbox<!--112110015-->
+|image=[[File:Skill Veteran Formation.png]]
+|name=[[Veteran Formation]]
+|type=Passive
+|reqlv=99
+|masterlv=30
+|desc=Improves the damage of Formation Attack. Displays the improved effect after the threshold is reached.
+|effect=Formation Attack, Defensive Formation, and Baby Bombers Damage: +150%, Formation Attack Count: +10
+}}
+{{Skillbox<!--112111008-->
+|image=[[File:Skill Razor Beak.png]]
+|name=[[Razor Beak]]
+|type=Active
+|reqlv=104
+|masterlv=15
+|desc=Eka's beak becomes so sharp, your whole party's ATT increases.
+|effect=MP Cost: 22, Weapon ATT: +30, Magic ATT: +30, Duration: 180 sec
+}}
+{{Skillbox<!--112110013-->
+|image=[[File:Skill Feather Boots.png]]
+|name=[[Feather Boots]]
+|type=Passive
+|reqlv=110
+|masterlv=15
+|desc=Boosts your Speed in Hawk mode.
+|effect=Movement Speed: +45, Critical Damage: +15%
+}}
+{{Skillbox<!--112111016-->
+|image=[[File:Skill Tornado Flight.png]]
+|name=[[Tornado Flight]]
+|type=Active
+|reqlv=118
+|masterlv=10
+|desc=Eka's friends stir up a tornado to attack. <font color="darkorange">Hold down the skill key and press the direction keys</font> to steer.
+|effect=MP Cost: 42, Max Enemies Hit: 8, Damage: 800%. <font color="darkorange">Steer by holding the skill key and pressing Left, Right, Up, and Down.</font> Max Range: 600, Cooldown: 25
+}}
+
+==[[File:Arby Icon.png|Cat Skills|30px]] Cat Skills==
+{{Skillbox<!--112120000-->
+|image=[[File:Skill Friend Launcher.png]]
+|name=[[Friend Launcher]]
+|type=Active
+|reqlv=50
+|masterlv=10
+|desc=Launch your pals at faraway enemies with up to 4 extra hits of the [Attack Key].
+|effect=Damage: 800%, Max Enemies Hit: 4, Number of Attacks: 1. On the 4th attack, delivers a final blow to 8 enemies once with 1600% damage.
+}}
+{{Skillbox<!--112120015-->
+|image=[[File:Skill Cat Wit.png]]
+|name=[[Cat Wit]]
+|type=Passive
+|reqlv=50
+|masterlv=10
+|desc=Increases Intelligence while in Cat Mode.
+|effect=Passive Effect - INT: +100
+}}
+{{Skillbox<!--112120021-->
+|image=[[File:Skill Kitty Battle Squad.png]]
+|name=[[Kitty Battle Squad]]
+|type=Passive
+|reqlv=53
+|masterlv=15
+|desc=Boosts ATT and Magic ATT of party members in the same map while in cat mode.
+|effect=Passive Effects: ATT/Magic ATT: +35
+}}
+{{Skillbox<!--112120023-->
+|image=[[File:Skill Kitty Treats.png]]
+|name=[[Kitty Treats]]
+|type=Passive
+|reqlv=56
+|masterlv=15
+|desc=Party members in the same map as you get extra Max HP & MP while you're in cat mode.
+|effect=Max HP: +625, Max MP: +625
+}}
+{{Skillbox<!--112120014-->
+|image=[[File:Skill Purr-Powered.png]]
+|name=[[Purr-Powered]]
+|type=Passive
+|reqlv=61
+|masterlv=10
+|desc=Increases stance chance, and recovers HP and MP over 4 seconds while in Cat Mode.
+|effect=Passive Effect - Stance Chance: +30%, HP Recovery: 100 per 4 seconds, MP Recovery: 100 per 4 seconds
+}}
+{{Skillbox<!--112120017-->
+|image=[[File:Skill Sticky Paws.png]]
+|name=[[Sticky Paws]]
+|type=Passive
+|reqlv=66
+|masterlv=20
+|desc=Increases item drop chance for party members in your map while in cat mode.
+|effect=Passive Effect - Party Item Drop Chance: +20%
+}}
+{{Skillbox<!--112121013-->
+|image=[[File:Skill Meow Heal.png]]
+|name=[[Meow Heal]]
+|type=Active
+|reqlv=71
+|masterlv=20
+|desc=Heals your allies by shooting yarn of love.
+|effect=MP Cost: 46, Max Number:6, HP Recovered: 20%
+}}
+{{Skillbox<!--112120018-->
+|image=[[File:Skill Cat's Claws.png]]
+|name=[[Cat's Claws]]
+|type=Passive
+|reqlv=75
+|masterlv=20
+|desc=Increases Critical Rate and Min Critical Damage for party members in your map while in cat mode.
+|effect=Passive Effect: Critical Rate: +30%, Critical Damage: +10%
+}}
+{{Skillbox<!--112121010-->
+|image=[[File:Skill Meow Cure.png]]
+|name=[[Meow Cure]]
+|type=Active
+|reqlv=79
+|masterlv=10
+|desc=Removes Abnormal Status and Magic Effects of nearby party members.
+|effect=MP Cost: 10, Chance to nullify magic effects and remove abnormal status: 100%, Cooldown: 5 sec
+}}
+{{Skillbox<!--112121005-->
+|image=[[File:Skill Purr Zone.png]]
+|name=[[Purr Zone]]
+|type=Active
+|reqlv=84
+|masterlv=15
+|desc=Creates an aura of love that damages enemies and heals allies.
+|effect=MP Cost: 115, Max Targets Affected: 8, Damage: 1000%, Friends Healed: 550, Duration: 22 sec, Cooldown: 15 sec
+}}
+{{Skillbox<!--112121006-->
+|image=[[File:Skill Meow Card.png]]
+|name=[[Meow Card]]
+|type=Active
+|reqlv=89
+|masterlv=20
+|desc=Draws a random card that buffs your party.
+|effect=MP Cost: 0,<br /><font color="darkorange">Red Card</font> - Damage: +40%<br /><font color="darkorange">Blue Card</font> - DEF: +200, Max HP/MP: +25%<br /><font color="darkorange">Yellow Card</font> - Attack Speed: +2, Speed: +20<br /><font color="darkorange">Duration:</font> 120 sec, Cooldown: 30 sec
+}}
+{{Skillbox<!--112120058-->
+|image=[[File:Skill Friend Launcher - Enhance.png]]
+|name=[[Friend Launcher - Enhance]]
+|type=Passive
+|reqlv=93
+|masterlv=15
+|desc=Allows you to launch your friends more powerfully.
+|effect=<font color="darkorange">Friend Launcher</font> Damage: +100%
+}}
+{{Skillbox<!--112120022-->
+|image=[[File:Skill Mouser's Insight.png]]
+|name=[[Mouser's Insight]]
+|type=Passive
+|reqlv=97
+|masterlv=20
+|desc=Any party members near you will ignore some enemy DEF while you're in Cat Mode.
+|effect=DEF Ignored: 20%
+}}
+{{Skillbox<!--112121004-->
+|image=[[File:Skill Fire Kitty!.png]]
+|name=[[Fire Kitty!]]
+|type=Active
+|reqlv=102
+|masterlv=20
+|desc=Arby rolls forward to attack. Targets temporarily have less DEF.
+|effect=MP Cost: 46, Damage: 800%, Number of Attacks: 3, Max Enemies Hit: 8, Enemy DEF: -40%, Cooldown: 3 sec
+}}
+{{Skillbox<!--112121011-->
+|image=[[File:Skill Meow Revive.png]]
+|name=[[Meow Revive]]
+|type=Active
+|reqlv=107
+|masterlv=15
+|desc=Revive a party member with Arby's soothing powers.
+|effect=MP Cost: 75, Revives KO'd party member within range, Cooldown: 750 sec
+}}
+{{Skillbox<!--112120019-->
+|image=[[File:Skill Meow Gold Card.png]]
+|name=[[Meow Gold Card]]
+|type=Passive
+|reqlv=111
+|masterlv=15
+|desc=Gives you a chance to draw the Gold Card when using the Lucky Cat skill, which has all the effects of the Red, Blue, and Green Cards.
+|effect=MP Cost: 75, Passive Effect: <font color="darkorange">Gold Card</font> Chance: 30%
+}}
+{{Skillbox<!--112120016-->
+|image=[[File:Skill Friends of Arby.png]]
+|name=[[Friends of Arby]]
+|type=Passive
+|reqlv=115
+|masterlv=20
+|desc=Party members on the same map will get bonus EXP.<br />(When stacked with <font color="darkorange">Holy Symbol</font>, only the highest EXP bonus will take effect.)
+|effect=Passive Effect: Party EXP: +30%
+}}
+{{Skillbox<!--112121057-->
+|image=[[File:Skill Cat's Cradle Blitzkrieg.png]]
+|name=[[Cat's Cradle Blitzkrieg]]
+|type=Active
+|reqlv=120
+|masterlv=10
+|desc=Whenever a party member successfully attacks an enemy, all enemies in range take damage.
+|effect=Damage from Party Member: 1000%, Number of Hits: 1, Duration: 12, Cooldown: 180 sec
+}}
+
+==[[File:Skill Hyper.png|Hyper Skills]] Hyper Skills==
+{{Skillbox<!--112120043-->
+|image=[[File:Skill Furious Strikes - Reinforce.png]]
+|name=[[Furious Strikes - Reinforce]]
+|type=Passive
+|reqlv=165
+|masterlv=1
+|desc=Increases the damage of Furious Strikes.
+|effect=Damage: +20%
+}}
+{{Skillbox<!--112120044-->
+|image=[[File:Skill Furious Strikes - Extra Strike.png]]
+|name=[[Furious Strikes - Extra Strike]]
+|type=Passive
+|reqlv=180
+|masterlv=1
+|desc=Increases the attack count of Furious Strikes.
+|effect=Number of Attacks: +1
+}}
+{{Skillbox<!--112120045-->
+|image=[[File:Skill Furious Strikes - Boss Rush.png]]
+|name=[[Furious Strikes - Boss Rush]]
+|type=Passive
+|reqlv=140
+|masterlv=1
+|desc=Increases damage against bosses with Furious Strikes.
+|effect=+20% damage to bosses
+}}
+{{Skillbox<!--112120046-->
+|image=[[File:Skill Three Point Pounce - Reinforce.png]]
+|name=[[Three-Point Pounce - Reinforce]]
+|type=Passive
+|reqlv=190
+|masterlv=1
+|desc=Boosts Three-Point Pounce's damage.
+|effect=Damage: +20%
+}}
+{{Skillbox<!--112120047-->
+|image=[[File:Skill Three Point Pounce - Spread.png]]
+|name=[[Three-Point Pounce - Spread]]
+|type=Passive
+|reqlv=165
+|masterlv=1
+|desc=Increases the number of monsters that Three-Point Pounce hits.
+|effect=Monsters Hit: +2
+}}
+{{Skillbox<!--112120048-->
+|image=[[File:Skill Three Point Pounce - Extra Strike.png]]
+|name=[[Three-Point Pounce - Extra Strike]]
+|type=Passive
+|reqlv=150
+|masterlv=1
+|desc=Increases Three-Point Pounce's attack count.
+|effect=Number of Attacks: +1
+}}
+{{Skillbox<!--112120049-->
+|image=[[File:Skill Formation Attack - Reinforce.png]]
+|name=[[Formation Attack - Reinforce]]
+|type=Passive
+|reqlv=180
+|masterlv=1
+|desc=Boosts the damage of Formation Attack.
+|effect=Damage: +20%
+}}
+{{Skillbox<!--112120050-->
+|image=[[File:Skill Formation Attack - Spread.png]]
+|name=[[Formation Attack - Spread]]
+|type=Passive
+|reqlv=140
+|masterlv=1
+|desc=Increases the number of monsters that Formation Attack hits.
+|effect=Monsters Hit: +2
+}}
+{{Skillbox<!--112120051-->
+|image=[[File:Skill Formation Attack - Guardbreak.png]]
+|name=[[Formation Attack - Guardbreak]]
+|type=Passive
+|reqlv=165
+|masterlv=1
+|desc=Formation Attack - Guardbreak
+|effect=DEF Ignored: +20%
+}}
+{{Skillbox<!--112120052-->
+|image=[[File:Skill Friend Launcher - Reinforce.png]]
+|name=[[Friend Launcher - Reinforce]]
+|type=Passive
+|reqlv=180
+|masterlv=1
+|desc=Increases the damage of Friend Launcher.
+|effect=Damage: +20%
+}}
+{{Skillbox<!--112120053-->
+|image=[[File:Skill Friend Launcher - Spread.png]]
+|name=[[Friend Launcher - Spread]]
+|type=Passive
+|reqlv=150
+|masterlv=1
+|desc=Increases the number of monsters that Friend Launcher hits.
+|effect=Monsters Hit: +2
+}}
+{{Skillbox<!--112120054-->
+|image=[[File:Skill Friend Launcher - Range.png]]
+|name=[[Friend Launcher - Range]]
+|type=Passive
+|reqlv=140
+|masterlv=1
+|desc=Increases Friend Launcher's range.
+|effect=Range: 350
+}}
+{{Skillbox<!--112121055-->
+|image=[[File:Skill Group Bear Blaster.png]]
+|name=[[Group Bear Blaster]]
+|type=Active
+|reqlv=160
+|masterlv=1
+|desc=Help your friends catapult a Bear at the enemy. Craziness!
+|effect=MP Cost: 500, Damage: 800%, Number of Attacks: 10, Max Enemies Hit: 15, Cooldown: 90 sec, Invincible while casting
+}}
+{{Skillbox<!--112121056-->
+|image=[[File:Skill Team Roar.png]]
+|name=[[Team Roar]]
+|type=Active
+|reqlv=140
+|masterlv=1
+|desc=Become invincible and boost the Damage of your whole party.
+|effect=MP Cost: 1000, Invincibility Duration: 30 sec, Damage Boost: +30%<br />Cooldown: 360 sec
+}}
+{{Skillbox<!--112121058-->
+|image=[[File:Skill All Together! Critter Crossing!.png]]
+|name=[[All Together! Critter Crossing!]]
+|type=Active
+|reqlv=190
+|masterlv=1
+|desc=Temporarily summons all of the animal spirits at the sound of Chase's strong, magical whistle.
+|effect=MP Cost: 1000, Duration: 60, applies all of the passive and buff skills with a few exceptions, regardless of the mode.<br />However, only skills with SP invested will be maintained, and buffs will disappear regardless of the remaining duration when this buff ends.<br />Cooldown: 360 sec
+}}
+
+==V Skills==
+{{Skill Table Styling}}
+{{Fifth Job Shared Skills|All}}
+|-400004531
+|[[File:Skill Paw Swipe.png]]
+|Paw Swipe/Furious Strikes Boost
+|Passive
+|Boosts Paw Swipe and Furious Strikes.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004532
+|[[File:Skill Deep Breath.png]]
+|Deep Breath Boost
+|Passive
+|Boosts Deep Breath.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004533
+|[[File:Skill Really Deep Breath.png]]
+|Really Deep Breath Boost
+|Passive
+|Boosts Really Deep Breath.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004534
+|[[File:Skill Li'l Fort.png]]
+|Li'l Fort Boost
+|Passive
+|Boosts Li'l Fort.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Crit Rate: +5%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004535
+|[[File:Skill Fishy Slap.png]]
+|Fishy Slap Boost
+|Passive
+|Boosts Fishy Slap.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004536
+|[[File:Skill Table Flip.png]]
+|Table Flip Boost
+|Passive
+|Boosts Table Flip.<br /><br /><font color="darkorange">Lv. 20 - Crit Rate: +5%<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004537
+|[[File:Skill Leopard's Paw.png]]
+|Leopard's Paw/Leopard's Roar Boost
+|Passive
+|Boosts Leopard's Paw and Leopard's Roar.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004538
+|[[File:Skill Macho Dance.png]]
+|Macho Dance/Macho Slam/Macho Incarnate Boost
+|Passive
+|Boosts Macho Dance, Macho Slam, and Macho Incarnate.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004539
+|[[File:Skill Thunder Dash.png]]
+|Thunder Dash/Thunder Trail Boost
+|Passive
+|Boosts Thunder Dash and Thunder Trail.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004540
+|[[File:Skill Three-Point Pounce.png]]
+|Three-Point Pounce Boost
+|Passive
+|Boosts Three-Point Pounce.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004541
+|[[File:Skill Party Time.png]]
+|Party Time Boost
+|Passive
+|Boosts Party Time.<br /><br /><font color="darkorange">Lv. 20 - Critical Rate: +5%<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004542
+|[[File:Skill Formation Attack.png]]
+|Formation Attack/Baby Bombers Boost
+|Passive
+|Boosts Formation Attack and Baby Bombers.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004543
+|[[File:Skill Tornado Flight.png]]
+|Tornado Flight Boost
+|Passive
+|Boosts Tornado Flight.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004544
+|[[File:Skill Friend Launcher.png]]
+|Friend Launcher Boost
+|Passive
+|Boosts Friend Launcher.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004545
+|[[File:Skill Fire Kitty!.png]]
+|Fire Kitty! Boost
+|Passive
+|Boosts Fire Kitty!.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+|-400004546
+|[[File:Skill Group Bear Blaster.png]]
+|Group Bear Blaster Boost
+|Passive
+|Boosts Group Bear Blaster.<br /><br /><font color="darkorange">Lv. 20 - Max Targets: +1<br />Lv. 40 - Monster DEF Ignored: +20%</font><br />Final Damage: +2% per level, Max Level: 50 (60 with Matrix Points)
+{{Fifth Job Shared Skills|Maple World}}
+{{Fifth Job Shared Skills|Magician}}
+|-400021019
+|[[File:Skill Champ Charge.png]]
+|[[Champ Charge]]
+|Active
+|The Beast Tamer's animal friends join forces to attack the enemy. Pressing the skill button repeatedly will perform a joint attack, with the last animal friend unleashing a powerful special attack. You can use the directional keys during the skill to determine which animal will inflict the final strike.
+|-400021055
+|[[File:Skill Cub Cavalry.png]]
+|[[Cub Cavalry]]
+|Active
+|Calls a herd of critter cubs to your aid. Unaffected by attack reflection.
+|-400021082
+|[[File:Skill Aerial Relief.png]]
+|[[Aerial Relief]]
+|Active
+|Your animal friends zoom in on an airplane and attack the enemy mercilessly. Unaffected by attack reflection.
+|-400021116
+|[[File:Skill The Greatest Show on Maple World Is Coming!.png]]
+|[[The Greatest Show on Maple World Is Coming!]]
+|Active
+|Come one, come all! Witness the greatest show this world has ever seen. You won't believe it, and you'll never forget it! Hey guys...? Boss...? Well, it looks like Arby is having fun, at least. What about you, Eka? Fort, that fool... Why is he working so hard? *Sigh*...<br />Additional Attack will be applied while the circus is maintained, and additional attacks will be unaffected by attack reflection.
+|}
+{{Skills}}
+[[Category:Beast Tamer Skills]]
